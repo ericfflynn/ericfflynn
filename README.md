@@ -3,6 +3,11 @@ My name is Eric Flynn and I am currently employed as a Business Intelligence Dev
 
 ---
 
+###Projects :
+[Personal Fitness Dashboard](https://eric-flynn-health-app.herokuapp.com/)
+
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
