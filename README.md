@@ -4,7 +4,9 @@ My name is Eric Flynn and I am currently employed as a Business Intelligence Dev
 ---
 
 ### Projects :
-*Please give 10-15 seconds to load
+
+*Note: Please give 10-15 seconds to load
+
 [Personal Fitness Dashboard](https://eric-flynn-health-app.herokuapp.com/)
 
 ---
