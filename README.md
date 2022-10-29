@@ -4,9 +4,6 @@ My name is Eric Flynn and I am currently employed as a Business Intelligence Dev
 ---
 
 ### Projects :
-
-*Note: Please give 10-15 seconds to load
-
 [Personal Fitness Dashboard](http://18.118.204.230:8501/)
 
 ---
