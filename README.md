@@ -7,7 +7,7 @@ My name is Eric Flynn and I am currently employed as a Business Intelligence Dev
 
 [Personal Website](http://ericjflynn.com/)
 
-[Personal Fitness Dashboard](http://health-app.ericjflynn.com/)
+[Fitness Dashboard](http://health-app.ericjflynn.com/)
 
 ---
 
