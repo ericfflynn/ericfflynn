@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Eric Flynn and I am currently employed as a Business Intelligence Developer. I utilize different analytical tools and computer programs to drive valuable business insights from raw data. The purpose of this GitHub is to showcase the personal projects that I work on in my free time. I hope you enjoy!
+I'm a self taught programmer obsessed with learning. BS/MS in Industrial & Systems Engineering from Binghamton University. Currently employed as a BI Developer at Kiss Products Inc.
 
 ---
 
@@ -27,4 +27,5 @@ My name is Eric Flynn and I am currently employed as a Business Intelligence Dev
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 
-### [Resume Download](https://github.com/ericfflynn/resume/blob/main/resume.pdf)
+---
+### [Resume](https://github.com/ericfflynn/resume/blob/main/resume.pdf)
