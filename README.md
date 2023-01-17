@@ -12,6 +12,8 @@ I'm a self taught programmer with a passion for learning. I obtained my BS/MS in
 [Weather App](https://github.com/ericfflynn/weather-app)
 
 [Resume](https://github.com/ericfflynn/resume/blob/main/resume.pdf)
+
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
