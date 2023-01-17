@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a self taught programmer obsessed with learning. I obtained my BS/MS in Industrial & Systems Engineering from Binghamton University. Currently, I'm employed as a BI Developer at Kiss Products Inc. In this role, I develop and maintain robust pipelines to continuously extract data from various internal/external ERP systems, REST APIs, and databases. This information is then fed into Power BI where it is visualized to assist different functional teams with their daily operational and strategical decision making.
+I'm a self taught programmer with a passion for learning. I obtained my BS/MS in Industrial & Systems Engineering from Binghamton University. Currently, I'm employed as a BI Developer at Kiss Products Inc. In this role, I develop and maintain robust pipelines to continuously extract data from various internal/external ERP systems, REST APIs, and databases. This information is then fed into Power BI where it is visualized to assist different functional teams with their daily operational and strategical decision making.
 
 ---
 
@@ -11,6 +11,7 @@ I'm a self taught programmer obsessed with learning. I obtained my BS/MS in Indu
 
 [Weather App](https://github.com/ericfflynn/weather-app)
 
+[Resume](https://github.com/ericfflynn/resume/blob/main/resume.pdf)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -28,6 +29,3 @@ I'm a self taught programmer obsessed with learning. I obtained my BS/MS in Indu
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
-
----
-### [Resume](https://github.com/ericfflynn/resume/blob/main/resume.pdf)
