@@ -7,7 +7,7 @@ I'm a self taught programmer with a passion for learning. I obtained my BS/MS in
 
 [Personal Website](https://ericjflynn.com/)
 
-[Fitness Dashboard](http://health-app.ericjflynn.com/)
+[Fitness Dashboard](https://health-app.ericjflynn.com/)
 
 [Weather App](https://github.com/ericfflynn/weather-app)
 
