@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a self taught programmer with a passion for learning. I obtained my BS/MS in Industrial & Systems Engineering from Binghamton University. Currently, I'm employed as a BI Developer at Kiss Products Inc. In this role, I develop and maintain robust pipelines to continuously extract data from various internal/external ERP systems, REST APIs, and databases. This information is then fed into Power BI where it is visualized to assist different functional teams with their daily operational and strategical decision making.
+I'm a self taught programmer with a passion for learning. I obtained my BS/MS in Industrial & Systems Engineering from Binghamton University. Currently, I'm employed as a Business Analyst at Kiss Products Inc. In this role, I develop and maintain robust pipelines to continuously extract data from various internal/external ERP systems, REST APIs, and databases. This information is then fed into Power BI where it is visualized to assist different functional teams with their daily operational and strategical decision making.
 
 ---
 
