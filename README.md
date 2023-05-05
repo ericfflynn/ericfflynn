@@ -13,7 +13,7 @@ I'm a self taught programmer with a passion for learning. I obtained my BS/MS in
 
 [Resume](https://github.com/ericfflynn/resume/blob/main/SAresume.pdf)
 
-[Zillow Web Scraping] (https://github.com/ericfflynn/zillow-web-scraping/blob/main/notebook.ipynb)
+[Zillow Web Scraping](https://github.com/ericfflynn/zillow-web-scraping/blob/main/notebook.ipynb)
 
 ---
 
