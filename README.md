@@ -17,11 +17,11 @@ Thanks for checking out my GitHub! My names Eric Flynn and I consider myself a d
 
 ---
 
-###:hammer_and_wrench: Languages and Tools:
-1. Python ⭐⭐⭐⭐⭐
+### :hammer_and_wrench: Languages and Tools:
+#### 1. Python ⭐⭐⭐⭐⭐
   - *Apache Airflow, Beautiful Soup, Dash, FastAPI, Matplotlib, NLTK, Numpy, Pandas, Plotly, Requests, Selenium, SQL Alchemy, Streamlit*   
 
-2. Data Warehousing ⭐⭐⭐⭐⭐
+#### 2. Data Warehousing ⭐⭐⭐⭐⭐
   - Databricks, Google Big Query, MS SQL, MySQL, PostgreSQL, Snowflake
 
 3. Data Visualization ⭐⭐⭐⭐
