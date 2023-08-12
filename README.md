@@ -17,17 +17,24 @@ Thanks for checking out my GitHub! My names Eric Flynn and I consider myself a d
 
 ---
 
-### :computer: Programming Languages :
+###:hammer_and_wrench: Languages and Tools:
 1. Python ⭐⭐⭐⭐⭐
-* Data Manipulation
-- Pandas
-* REST API
-* Data Visualization
-* Data Engineering
-* Web Scraping,
+* Apache Airflow, Beautiful Soup, Dash, FastAPI, Matplotlib, NLTK, Numpy, Pandas, Plotly, Requests, Selenium, SQL Alchemy, Streamlit     
 
-2. SQL
-* Data Storage, Data Transformations,
+2. Data Warehousing ⭐⭐⭐⭐⭐
+* Databricks, Google Big Query, MS SQL, MySQL, PostgreSQL, Snowflake
+
+3. Data Visualization ⭐⭐⭐⭐
+* Microsoft Power BI, Tableau
+   
+3. Operating Systems/Environments ⭐⭐⭐
+* Amazon Linux, Docker, MacOS, Windows, Ubuntu
   
-3. JavaScript
-* Node.js, React.js, 
+4. Package Management ⭐⭐⭐
+* Apt-get, Conda, Docker, npm, pip, yum
+
+5. JavaScript ⭐⭐
+* Node.js, React.js
+  
+6. CSS/HTML ⭐⭐
+
