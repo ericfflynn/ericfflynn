@@ -22,19 +22,19 @@ Thanks for checking out my GitHub! My names Eric Flynn and I consider myself a d
   - *Apache Airflow, Beautiful Soup, Dash, FastAPI, Matplotlib, NLTK, Numpy, Pandas, Plotly, Requests, Selenium, SQL Alchemy, Streamlit*   
 
 #### 2. Data Warehousing ⭐⭐⭐⭐⭐
-  - Databricks, Google Big Query, MS SQL, MySQL, PostgreSQL, Snowflake
+  - *Databricks, Google Big Query, MS SQL, MySQL, PostgreSQL, Snowflake*
 
-3. Data Visualization ⭐⭐⭐⭐
-  - Microsoft Power BI, Tableau
+#### 3. Data Visualization ⭐⭐⭐⭐
+  - *Microsoft Power BI, Tableau*
    
-4. Operating Systems/Environments ⭐⭐⭐
-  - Amazon Linux, Docker, MacOS, Windows, Ubuntu
+#### 4. Operating Systems/Environments ⭐⭐⭐
+  - *Amazon Linux, Docker, MacOS, Windows, Ubuntu*
   
-5. Package Management ⭐⭐⭐
-  - Apt-get, Conda, Docker, npm, pip, yum
+#### 5. Package Management ⭐⭐⭐
+  - *Apt-get, Conda, Docker, npm, pip, yum*
 
-6. JavaScript ⭐⭐
-  - Node.js, React.js
+#### 6. JavaScript ⭐⭐
+  - *Node.js, React.js*
   
-7. CSS/HTML ⭐⭐
+#### 7. CSS/HTML ⭐⭐
 
