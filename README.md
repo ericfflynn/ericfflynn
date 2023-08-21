@@ -5,7 +5,7 @@ Some of my interests include health and wellness, investing, real-estate, and cr
 
 ---
 
-### Projects :
+### Top Projects :
 
 [Personal Website](https://ericjflynn.com/)
 
