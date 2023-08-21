@@ -39,4 +39,4 @@ Some of my interests include health and wellness, investing, real-estate, and cr
 #### 7. CSS/HTML ⭐⭐
 
 ---
-### [Resume] (https://github.com/ericfflynn/resume/blob/main/Eric-Flynn-Resume.pdf)
+### [Resume](https://github.com/ericfflynn/resume/blob/main/Eric-Flynn-Resume.pdf)
