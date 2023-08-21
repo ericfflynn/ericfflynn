@@ -13,8 +13,6 @@ Some of my interests include health and wellness, investing, real-estate, and cr
 
 [Weather App](https://github.com/ericfflynn/weather-app)
 
-[Resume](https://github.com/ericfflynn/resume/blob/main/eric-flynn-resume.pdf)
-
 [Zillow Web Scraping](https://github.com/ericfflynn/zillow-web-scraping/blob/main/notebook.ipynb)
 
 ---
@@ -40,3 +38,5 @@ Some of my interests include health and wellness, investing, real-estate, and cr
   
 #### 7. CSS/HTML ⭐⭐
 
+---
+### [Resume] (https://github.com/ericfflynn/resume/blob/main/Eric-Flynn-Resume.pdf)
