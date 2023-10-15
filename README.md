@@ -18,25 +18,25 @@ Some of my interests include health and wellness, investing, real-estate, and cr
 ---
 
 # :hammer_and_wrench: Languages and Tools:
-## 1. Python ⭐⭐⭐⭐⭐
+1. Python ⭐⭐⭐⭐⭐
   - *Apache Airflow, Beautiful Soup, Dash, FastAPI, Matplotlib, NLTK, Numpy, Pandas, Plotly, Requests, Selenium, SQL Alchemy, Streamlit*   
 
-## 2. Data Warehousing ⭐⭐⭐⭐⭐
+2. Data Warehousing ⭐⭐⭐⭐⭐
   - *Databricks, Google Big Query, MS SQL, MySQL, PostgreSQL, Snowflake*
 
-## 3. Data Visualization ⭐⭐⭐⭐
+3. Data Visualization ⭐⭐⭐⭐
   - *Microsoft Power BI, Tableau*
    
-## 4. Operating Systems/Environments ⭐⭐⭐
+4. Operating Systems/Environments ⭐⭐⭐
   - *Amazon Linux, Docker, MacOS, Windows, Ubuntu*
   
-## 5. Package Management ⭐⭐⭐
+5. Package Management ⭐⭐⭐
   - *Apt-get, Conda, Docker, npm, pip, yum*
 
-## 6. JavaScript ⭐⭐
+6. JavaScript ⭐⭐
   - *Node.js, React.js*
   
-## 7. CSS/HTML ⭐⭐
+7. CSS/HTML ⭐⭐
 
 ---
 ## [Resume](https://github.com/ericfflynn/resume/blob/main/Eric-Flynn-Resume.pdf)
