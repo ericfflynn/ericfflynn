@@ -7,6 +7,8 @@ Some of my interests include health and wellness, investing, real-estate, and cr
 
 # Top Projects :
 
+[Rolex Classification Model](https://huggingface.co/spaces/ericfflynn/watch-classification)
+
 [Personal Website](https://ericjflynn.com/)
 
 [Fitness Dashboard](https://github.com/ericfflynn/health-app/blob/main/README.md)
