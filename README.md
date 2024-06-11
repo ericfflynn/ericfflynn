@@ -1,15 +1,13 @@
 # Hi there 👋
-Thanks for checking out my GitHub! My names Eric Flynn and I consider myself a data enthusiast. I come from a background in Industrial and Systems Engineering (ISE), and over the last 3 years I have become enthralled with computer programming. I love to learn new open-source technologies, and I use this GitHub to showcase my personal projects. 
+Thanks for checking out my GitHub! My names Eric Flynn and I consider myself a data enthusiast. I come from a background in Industrial and Systems Engineering (ISE), and over the last 3 years I have become enthralled with computer programming and the data field. I love to learn new open-source technologies, and I use this GitHub to showcase my personal projects I've developed with them. 
 
-Some of my interests include health and wellness, investing, real-estate, and cryptocurrency. I'm always looking for ways to apply programming in these areas.
+Some of my interests include health and wellness, investing, real-estate, and cryptocurrency. I'm always looking for ways to apply my technical skills in these areas.
 
 ---
 
 # Top Projects :
 
 [Rolex Classification Model](https://huggingface.co/spaces/ericfflynn/watch-classification)
-
-[Personal Website](https://ericjflynn.com/)
 
 [Fitness Dashboard](https://github.com/ericfflynn/health-app/blob/main/README.md)
 
