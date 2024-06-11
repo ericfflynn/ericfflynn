@@ -9,11 +9,14 @@ Some of my interests include health and wellness, investing, real-estate, and cr
 
 [Rolex Classification Model](https://huggingface.co/spaces/ericfflynn/watch-classification)
 
+[Cryptocurrency Portfolio Dashboard](https://github.com/ericfflynn/crypto-portolio-dashboard)
+
+[Web Scraping Apartments](https://github.com/ericfflynn/zillow-web-scraping/blob/main/notebook.ipynb)
+
 [Fitness Dashboard](https://github.com/ericfflynn/health-app/blob/main/README.md)
 
 [Weather App](https://github.com/ericfflynn/weather-app)
 
-[Zillow Web Scraping](https://github.com/ericfflynn/zillow-web-scraping/blob/main/notebook.ipynb)
 
 ---
 
