@@ -19,7 +19,7 @@ Some of my interests include health and wellness, investing, real-estate, and cr
 
 # :hammer_and_wrench: Languages and Tools:
 1. Python ⭐⭐⭐⭐⭐
-  - *Apache Airflow, Beautiful Soup, Dash, FastAPI, Matplotlib, NLTK, Numpy, Pandas, Plotly, Requests, Selenium, SQL Alchemy, Streamlit*   
+  - *Apache Airflow, Beautiful Soup, Dash, FastAI, FastAPI, Matplotlib, NLTK, Numpy, Pandas, Plotly, PyTorch, Requests, Selenium, SQL Alchemy, Scrapy, Streamlit*   
 
 2. Data Warehousing ⭐⭐⭐⭐⭐
   - *Databricks, Google Big Query, MS SQL, MySQL, PostgreSQL, Snowflake*
@@ -31,7 +31,7 @@ Some of my interests include health and wellness, investing, real-estate, and cr
   - *Amazon Linux, Docker, MacOS, Windows, Ubuntu*
   
 5. Package Management ⭐⭐⭐
-  - *Apt-get, Conda, Docker, npm, pip, yum*
+  - *Apt-get, Conda, Docker, npm, pip, venv, yum*
 
 6. JavaScript ⭐⭐
   - *Node.js, React.js*
