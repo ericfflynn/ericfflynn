@@ -8,6 +8,7 @@ Some of my interests include health and wellness, investing, real-estate, and cr
 # Top Projects :
 
 [Rolex Classification Model](https://huggingface.co/spaces/ericfflynn/watch-classification)
+- AI model trained using FastAI, to classify Rolex watches into one of the four most popular models. Currently deployed using Streamlit on Hugging Face Spaces.
 
 [Cryptocurrency Portfolio Dashboard](https://github.com/ericfflynn/crypto-portolio-dashboard)
 
