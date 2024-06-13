@@ -8,16 +8,19 @@ Some of my interests include health and wellness, investing, real-estate, and cr
 # Top Projects :
 
 [Rolex Classification Model](https://huggingface.co/spaces/ericfflynn/watch-classification)
-- AI model trained using FastAI, to classify Rolex watches into one of the four most popular models. Currently deployed using Streamlit on Hugging Face Spaces.
+- A Deep Learning model trained using FastAI, to classify Rolex watches into one of the four most popular models. Currently deployed using Streamlit on Hugging Face Spaces.
 
 [Cryptocurrency Portfolio Dashboard](https://github.com/ericfflynn/crypto-portolio-dashboard)
+- Streamlit app which allows users to enter Cryptocurrency portfolio information, and will then fetch live price quotes and display performance in an interactive dashboard.
 
 [Web Scraping Apartments](https://github.com/ericfflynn/zillow-web-scraping/blob/main/notebook.ipynb)
+- Passion project which involved scraping and consolidating data from Zillow regarding the cost of apartments in New York City.
 
 [Fitness Dashboard](https://github.com/ericfflynn/health-app/blob/main/README.md)
+- Personal Fitness Dashboard which consolidates health data from multiple different sources in a cloud-based data pipeline. Fronted by Streamlit.
 
 [Weather App](https://github.com/ericfflynn/weather-app)
-
+- A basic weather app built with JavaScript to fetch weather in a city, and match the background to an image from that city.
 
 ---
 
