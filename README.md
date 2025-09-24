@@ -1,11 +1,11 @@
-# Hi there, I’m Eric J. Flynn 👋  
+# Hi there, I’m Eric 👋  
 **Systems Thinker • Data Engineer • ML & Analytics Enthusiast**
 
 ---
 
 ## About Me
 
-I come from a background in Industrial & Systems Engineering, and over the past few years I’ve dove deep into data, machine learning, and software development. I love using data to solve real-world problems, learning new open source tools, and building projects that blend engineering + analytics.
+I come from a background in Industrial & Systems Engineering, and over the past five years I’ve become enthralled with programming. I love using data to solve real-world problems, learning new open source tools, and building projects that blend engineering + analytics.
 
 Some of my current interests: health & wellness, real estate, investing, crypto, and sports. I’m always exploring how technology intersects with these domains.
 
@@ -18,8 +18,8 @@ Some of my current interests: health & wellness, real estate, investing, crypto,
 | **NutriBot** | AI-powered nutrition assistant that logs meals, calculates macros, and provides summaries. | Python, Streamlit, OpenAI, Built modularly for phase-based improvements, and future DB storage |
 | **Rolex Classification Model** | A deep learning model that classifies Rolex watches into four popular models. Deployed via Streamlit on Hugging Face Spaces. | FastAI, PyTorch, Streamlit. Learned how to handle class imbalance, image augmentation, deployment. |
 | **Cryptocurrency Portfolio Dashboard** | Enter your crypto portfolio and see live pricing, performance trends in an interactive dashboard. | Python, Streamlit, external market APIs. Includes charting, error handling, responsive UI. |
-| **Web Scraping Apartments (NYC)** | Scrapes and consolidates apartment price data from Zillow + other sources to analyze cost trends. | BeautifulSoup, Scrapy, Pandas. Built reusable pipelines, handled messy data, automated updates. |
-| **Fitness Dashboard** | Aggregates health data from various sources (wearables / manual input) into a unified dashboard. | Data pipelines, Streamlit, API integrations. Insights into my health over time. |
+| **Web Scraping Apartments (NYC)** | Scrapes and consolidates apartment price data from Zillow + other sources to analyze cost trends. | BeautifulSoup, Scrapy, Pandas. Built reusable pipelines, handled messy data. |
+| **Fitness Dashboard** | Aggregates health data from various sources (wearables / manual input) into a unified dashboard. | Data pipelines, Streamlit, API integrations, Amazon Web Services. Insights into my health over time. |
 | **Weather App** | Basic app fetching city weather via JS, and matching background images dynamically. | JavaScript, REST APIs, frontend styling. Fun way to sharpen JS / async skills. |
 
 ---
