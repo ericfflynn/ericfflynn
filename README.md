@@ -13,14 +13,18 @@ Some of my current interests: health & wellness, real estate, investing, crypto,
 
 ## 🔧 Top Projects
 
-| Project | What it does | Key Tech & Highlights |
+## 📦 Projects
+
+| **Project** | **What it does** | **Key Tech & Highlights** |
 |---|---|---|
-| **NutriBot** | AI-powered nutrition assistant that logs meals, calculates macros, and provides summaries. | Python, Streamlit, OpenAI, Built modularly for phase-based improvements, and future DB storage |
-| **Rolex Classification Model** | A deep learning model that classifies Rolex watches into four popular models. Deployed via Streamlit on Hugging Face Spaces. | FastAI, PyTorch, Streamlit. Learned how to handle class imbalance, image augmentation, deployment. |
-| **Cryptocurrency Portfolio Dashboard** | Enter your crypto portfolio and see live pricing, performance trends in an interactive dashboard. | Python, Streamlit, external market APIs. Includes charting, error handling, responsive UI. |
-| **Web Scraping Apartments (NYC)** | Scrapes and consolidates apartment price data from Zillow + other sources to analyze cost trends. | BeautifulSoup, Scrapy, Pandas. Built reusable pipelines, handled messy data. |
-| **Fitness Dashboard** | Aggregates health data from various sources (wearables / manual input) into a unified dashboard. | Data pipelines, Streamlit, API integrations, Amazon Web Services. Insights into my health over time. |
-| **Weather App** | Basic app fetching city weather via JS, and matching background images dynamically. | JavaScript, REST APIs, frontend styling. Fun way to sharpen JS / async skills. |
+| [**whoop-sdk**](https://test.pypi.org/project/whoop-sdk/) | Lightweight SDK published on PyPi for WHOOP API authentication and core endpoints (sleep, recovery, workouts, profile) | Python, uv, CI/CD via GitHub Actions |
+| [**NutriBot**](https://github.com/ericfflynn/nutribot) | AI-powered nutrition assistant that logs meals, calculates macros, and provides summaries | Python, Streamlit, OpenAI, modular phase-based design, future DB storage |
+| [**Cryptocurrency Portfolio Dashboard**](https://github.com/ericfflynn/crypto-portolio-dashboard) | Interactive dashboard tracking live crypto prices and portfolio performance | Python, Streamlit, external market APIs, charting, error handling, responsive UI |
+| [**Rolex Classification Model**](https://github.com/ericfflynn/watch-classification) | Deep learning model that classifies Rolex watches into four major models, deployed via Streamlit | FastAI, PyTorch, Streamlit, image augmentation, deployment on Hugging Face Spaces |
+| [**Fitness Dashboard**](https://github.com/ericfflynn/health-app) | Aggregates wearable and manual health data into a unified dashboard with insights over time | Streamlit, data pipelines, API integrations, AWS |
+| [**Web Scraping Apartments (NYC)**](https://github.com/ericfflynn/zillow-web-scraping/blob/main/notebook.ipynb) | Scrapes and consolidates apartment price data to analyze NYC housing cost trends | BeautifulSoup, Scrapy, Pandas, reusable pipelines, messy data handling |
+
+
 
 ---
 
@@ -28,12 +32,12 @@ Some of my current interests: health & wellness, real estate, investing, crypto,
 
 Here are some of the languages / frameworks / tools I work with:
 
-- **Data Engineering & Warehousing:** Snowflake, Databricks, BigQuery, PostgreSQL, MySQL, SQLite 
+- **Data Engineering & Warehousing:** Snowflake, Oracle, PostgreSQL, MySQL, SQLite, Airflow, Kafka  
 - **Machine Learning & Data Science:** Python, OpenAI, FastAI, PyTorch, Scikit-learn, NLTK, Pandas, NumPy  
 - **Visualization & Dashboarding:** Streamlit, Plotly, Dash, Matplotlib, Tableau, Power BI  
-- **Web & Dev Tools:** FastAPI, Streamlit, React (some), Docker, API design, Web scraping  
-- **Environments & Deployment:** AWS / Linux, Docker, Conda, Git, uv, version control, CI/CD pipelines  
-
+- **Web & Dev Tools:** FastAPI, Streamlit, React (some), Docker, API design, web scraping  
+- **Environments & Deployment:** AWS, Linux, Docker, Conda, uv, Git, CI/CD pipelines
+  
 ---
 
 ## 📫 Let’s Connect
