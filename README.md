@@ -11,9 +11,7 @@ Some of my current interests: health & wellness, real estate, investing, crypto,
 
 ---
 
-## 🔧 Top Projects
-
-## 📦 Projects
+## Projects
 
 | **Project** | **What it does** | **Key Tech & Highlights** |
 |---|---|---|
@@ -40,7 +38,7 @@ Here are some of the languages / frameworks / tools I work with:
   
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect
 
 - [LinkedIn](www.linkedin.com/in/eric-flynn-)  
 - [Resume](https://github.com/ericfflynn/resume/blob/main/Eric-Flynn-Resume.pdf)
