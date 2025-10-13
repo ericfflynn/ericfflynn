@@ -15,7 +15,7 @@ Some of my current interests: health & wellness, real estate, investing, crypto,
 
 | **Project** | **What it does** | **Key Tech & Highlights** |
 |---|---|---|
-| [**whoop-sdk**](https://test.pypi.org/project/whoop-sdk/) | Lightweight SDK published on PyPi for WHOOP API authentication and core endpoints (sleep, recovery, workouts, profile) | Python, uv, CI/CD via GitHub Actions |
+| [**whoop-sdk**](https://pypi.org/project/whoop-sdk/) | Lightweight SDK published on PyPi for WHOOP API authentication and core endpoints (sleep, recovery, workouts, profile) | Python, uv, CI/CD via GitHub Actions |
 | [**NutriBot**](https://github.com/ericfflynn/nutribot) | AI-powered nutrition assistant that logs meals, calculates macros, and provides summaries | Python, Streamlit, OpenAI, modular phase-based design, future DB storage |
 | [**Cryptocurrency Portfolio Dashboard**](https://github.com/ericfflynn/crypto-portolio-dashboard) | Interactive dashboard tracking live crypto prices and portfolio performance | Python, Streamlit, external market APIs, charting, error handling, responsive UI |
 | [**Rolex Classification Model**](https://github.com/ericfflynn/watch-classification) | Deep learning model that classifies Rolex watches into four major models, deployed via Streamlit | FastAI, PyTorch, Streamlit, image augmentation, deployment on Hugging Face Spaces |
