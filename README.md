@@ -5,7 +5,7 @@
 
 ## About Me
 
-I’m interested in systems—how things fit together, where they break down, and how technology can make them better. I enjoy programming, experimenting with data and AI, and building things around health & wellness, investing, and sports.
+I’m interested in systems. I like figuring out how things fit together, where they break down, and how technology can make them better. I enjoy programming, experimenting with data and AI, and building things around health & wellness, investing, and sports.
 
 ---
 
