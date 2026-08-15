@@ -19,7 +19,6 @@ I’m interested in systems—how things fit together, where they break down, an
 | [**Cryptocurrency Portfolio Dashboard**](https://github.com/ericfflynn/crypto-portolio-dashboard) | Interactive dashboard tracking live crypto prices and portfolio performance | Python, Streamlit, external market APIs, charting, error handling, responsive UI |
 | [**Rolex Classification Model**](https://github.com/ericfflynn/watch-classification) | Deep learning model that classifies Rolex watches into four major models, deployed via Streamlit | FastAI, PyTorch, Streamlit, image augmentation, deployment on Hugging Face Spaces |
 | [**Fitness Dashboard**](https://github.com/ericfflynn/health-app) | Aggregates wearable and manual health data into a unified dashboard with insights over time | Streamlit, data pipelines, API integrations, AWS |
-| [**Web Scraping Apartments (NYC)**](https://github.com/ericfflynn/zillow-web-scraping/blob/main/notebook.ipynb) | Scrapes and consolidates apartment price data to analyze NYC housing cost trends | BeautifulSoup, Scrapy, Pandas, reusable pipelines, messy data handling |
 
 ---
 
