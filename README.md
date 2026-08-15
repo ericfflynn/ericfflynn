@@ -5,9 +5,7 @@
 
 ## About Me
 
-I come from a background in Industrial & Systems Engineering, and over the past five years I’ve become enthralled with programming. I love using data to solve real-world problems, learning new open source tools, and building projects that blend engineering + analytics.
-
-Some of my current interests: health & wellness, real estate, investing, crypto, and sports. I’m always exploring how technology intersects with these domains.
+I’m interested in systems—how things fit together, where they break down, and how technology can make them better. I enjoy programming, experimenting with data and AI, and building things around health & wellness, real estate, investing, crypto, and sports.
 
 ---
 
@@ -16,7 +14,7 @@ Some of my current interests: health & wellness, real estate, investing, crypto,
 | **Project** | **What it does** | **Key Tech & Highlights** |
 |---|---|---|
 | [**NutriBot Macros**](https://github.com/ericfflynn/nutribot) | AI-powered macro tracker that turns plain-English meal descriptions into editable calorie and macronutrient estimates, with personal goals and progress tracking | Next.js, TypeScript, OpenAI, Supabase, Vercel |
-| [**Workout Challenge**](https://github.com/ericfflynn/workout-challenge) | Full-stack fitness challenge app used by seven participants during a month-long pushup competition, with workout logging, weekly challenges, leaderboards, and recent activity | Next.js, TypeScript, Supabase, Tailwind CSS, Vercel |
+| [**Workout Challenge**](https://github.com/ericfflynn/workout-challenge) | Pushup challenge app I built for a month-long contest with my bros, with workout logging, weekly challenges, leaderboards, and recent activity | Next.js, TypeScript, Supabase, Tailwind CSS, Vercel |
 | [**whoop-sdk**](https://pypi.org/project/whoop-sdk/) | Lightweight SDK published on PyPI for WHOOP API authentication and core endpoints (sleep, recovery, workouts, profile) | Python, uv, CI/CD via GitHub Actions |
 | [**Cryptocurrency Portfolio Dashboard**](https://github.com/ericfflynn/crypto-portolio-dashboard) | Interactive dashboard tracking live crypto prices and portfolio performance | Python, Streamlit, external market APIs, charting, error handling, responsive UI |
 | [**Rolex Classification Model**](https://github.com/ericfflynn/watch-classification) | Deep learning model that classifies Rolex watches into four major models, deployed via Streamlit | FastAI, PyTorch, Streamlit, image augmentation, deployment on Hugging Face Spaces |
